@@ -33,7 +33,6 @@ While having a director class is not strictly necessary, it offers advantages li
 
 The `main.cpp` file in this repository provides a practical example demonstrating the usage of the Builder Pattern in C++. The example showcases the creation of a `House` object using different builders and a director to control the construction process.
 
-## How to Use
 ## Implementation
 
 ### 1. Product Class
