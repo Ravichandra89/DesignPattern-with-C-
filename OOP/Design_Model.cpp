@@ -1,3 +1,9 @@
+/*
+simple library system using object-oriented programming (OOP) principles. 
+The code defines classes for Author, Book, Library, and Member, allowing you to represent authors, books, a library collection, and members. 
+The main function demonstrates the creation of authors, books, and a library, and it adds books to the library.
+*/
+
 #include<iostream>
 #include<vector>
 using namespace std;
